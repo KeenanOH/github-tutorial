@@ -2,4 +2,4 @@
 
 What is 1 + 1?
 
-Type the answer here: 1
+Type the answer here: 2
